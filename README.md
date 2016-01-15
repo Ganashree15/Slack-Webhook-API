@@ -2,7 +2,7 @@
 
 Slack Webhook API developed using JAVA
 
- ![Alt text](https://github.com/infinitiessoft/Ganashree15/Slack-Webhook-API/master/Snip20160115_1.png "FORMAT")
+ ![Alt text](https://github.com/infinitiessoft/Ganashree15/Slack-Webhook-API/master/image/Snip20160115_1.png "FORMAT")
  
  #Table of contents
 
