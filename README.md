@@ -46,7 +46,8 @@ Slack Webhook API developed using JAVA
 
  Here we are using a Unit Test case by calling the ***send*** method to generate the sample output in the Slack.
  
- Ex: public void send() {
+ Ex: public void send() 
+ {
 		SlackApi api = new SlackApi("https://hooks.slack.com/services/id1/id2/token");
 		api.send(new SlackMessage("Hi friendss"));
 }
